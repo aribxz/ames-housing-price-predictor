@@ -1,4 +1,4 @@
-# Ames Housing Price Predictor
+# Ames Housing Price Predictor ha
 
 A machine learning project that predicts residential house prices using the Ames Housing dataset. Built as part of an ongoing journey learning machine learning — covers the full workflow from raw data to evaluated, tuned models.
 
